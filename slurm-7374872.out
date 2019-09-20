@@ -1,0 +1,4 @@
+  File "./asteroids.py", line 161
+    plt.axvline(x=a/(2.0)**(2.0/3.0), color='r', linestyle='-.', linewidth=1, label=r'2:1')
+                                                                                          ^
+TabError: inconsistent use of tabs and spaces in indentation
